@@ -1,0 +1,7 @@
+id = "tokyodark"
+name = "Tokyo Dark"
+version = "0.1.0"
+schema_version = 1
+authors = ["wfuger<mise-mefke6@gmail.com>"]
+description = "Tokyo Dark Theme Ported to Zed"
+repository = "https://github.com/wfuger/zed_tokyodark"
